@@ -1,1 +1,5 @@
 rootProject.name = 'surfmate_server'
+include 'surfmate-app-external-api'
+include 'surfmate-app-batch'
+include 'surfmate-core'
+//include 'surfmate-domain-rds'
